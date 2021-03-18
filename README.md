@@ -21,8 +21,8 @@ version each new year, so I do that rather than creating a 'master' repo.
 
 ## Other random notes as I think of them:
 
-* I send the invitations to the repositories for a given week via Blackboard (putting the message on the "Announcements" page on Blackboard for those who might miss the email.
-* If you set all your directories up to be 'public', students will be able to fork from them regardless of whether or not they formally join the organzation for the course.
+* I send the invitations to the repositories for a given week via Blackboard (putting the message on the "Announcements" page on Blackboard for those who might miss the email).
+* If you set all your directories up to be 'public', students will be able to view and fork from them regardless of whether or not they formally join the organzation for the course.
 * When students create their repos, by accepting the invitations you send them, they will have the following properties:
   + You will be able to access those repos to read the material for grading purposes, for example, even though the repos are 'private'.
   + Every time they create an issue, to say they have added answers to an assignment, for example, Github will send you a message to let you know.
